@@ -1,0 +1,76 @@
+body { }
+
+
+.text{
+ font-size: 15px;   
+    
+}
+
+.parents{
+  height: 220px;
+  width: 150px;
+  border: 3px solid whitesmoke;
+   display: flex ;
+   
+   flex-direction: column;
+    align-items: center;
+    
+}
+
+
+
+
+.lisa{
+  height: 70px;
+  width:  70px;
+  border-radius: 40px; 
+
+    
+}
+
+.david{
+ margin-top: 10px;    
+    
+}
+
+.fol{
+margin-top: 0.007px;    
+    
+    
+}
+
+.amit{
+ margin-top: 2px; 
+ position:  absolute; 
+ margin-left: 29px;
+}
+
+.follow{
+ margin-top:  28px; 
+ 
+  
+}
+
+.cup{
+ margin-top: -10px;   
+  position: absolute;
+}
+
+.btn{
+height:  30px;
+width: 100px;
+ margin-top: 45px ;  
+ background-color: blue;
+ color: white;
+}
+
+
+.Baap{
+  display:  flex ;
+  
+    
+}
+
+
+
+
